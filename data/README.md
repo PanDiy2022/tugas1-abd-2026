@@ -5,13 +5,13 @@
 Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
-|---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| :--- | :--- |
+| Nama dataset | **WhatsApp Messenger Play Store Reviews** |
+| Sumber | **[Kaggle] https://www.kaggle.com/datasets/luthfimuthathohirin/whatsapp-messenger-play-store-reviews-5m-rows** |
+| Lisensi/ketentuan pakai | **CC0: Public Domain / Open Data** |
+| Ukuran | **> 6.000.000 baris (317 MB)** |
+| Periode data | **Sesuai dataset Kaggle** |
+| Unit analisis | **Teks ulasan, rating, app version, dan waktu *review*** |
 
 ## Tempat Mencari Dataset
 
